@@ -1,7 +1,7 @@
 # Introduction
 Hey! I'm Jake Young.
 
-Below you'll find an overview of who I am , what I do and a list of helpful resources for general productivity, programming.
+Below you'll find an overview of who I am, what I do, and a list of helpful resources for general productivity, programming.
 
 # Personal
 
