@@ -3,12 +3,17 @@ A list of helpful resources for general productivity, programming, and random th
 
 # Swift
 
-
 ## Lets Build That App
 
 Comprehensive tutorials on how to build real iOS Apps. This is one of the best complete tutorial sites if you've ever been frustrated with tutorials stopping too soon.
 
 https://www.letsbuildthatapp.com
+
+## Ray Wenderlich
+
+Thoughtful fun tutorials on Swift, Android, Unity and Unreal development. Some of the best lessons if you need a path for end ot end development and the occasional advanced concept (e.g. grand central dispatch, UIKit animation, CoreData).
+
+https://github.com/need2edit/resources
 
 # AppleScript
 
