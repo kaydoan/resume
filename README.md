@@ -23,3 +23,15 @@ One of the best quick guides to AppleScript. Here are a few examples of what you
 - setup your computer for a demo (consistently every time)
 
 http://downloads.techbarrack.com/books/programming/AppleScript/website/
+
+## MacScripter
+
+A free forum for developing your scripts. It's free to sign up for and there are tons of real world examples for everything you can think of...and some things you haven't.
+
+http://www.macscripter.com/
+
+## Offical Apple Documentation of AppleScript
+
+Apple's guide takes you though every detail of the AppleScript language.
+
+https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html
