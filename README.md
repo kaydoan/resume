@@ -11,7 +11,7 @@ My goal is to work on great projects with great people. Passionate about creatin
 
 # Work
 
-I work for a non-profit called [ACP Decisions](https://acpdecisions.org) that specializes in Healthcare Education. We have [a large library of videos and guides](https://acpdecisions.org/library/) (250+) in over 20 languages. Some of the largest healthcare networks take utilize this content to ensure that patients are empowered with essential information to make informed medical decisions.
+I work for a non-profit called [ACP Decisions](https://acpdecisions.org) that specializes in Healthcare Education. We have [a large library of videos and guides](https://acpdecisions.org/library/) (250+) in over 20 languages. Some of the largest healthcare networks utilize this content and our products to ensure that patients are empowered with essential information to make informed medical decisions.
 
 As Chief Information Officer at ACP Decisions, I am responsible for:
 
