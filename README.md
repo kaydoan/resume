@@ -1,13 +1,13 @@
 # Introduction
-Hey! I'm Jake Young.
+Hey, I'm Jake Young
 
-Below you'll find an overview of who I am, what I do, and a list of helpful resources for general productivity, programming.
+Below you'll find an overview of who I am, what I do, and a list of helpful resources for general productivity, programming, and project management. 
 
 # Personal
 
-🎞 My background is in TV and Film production. I love a good movie. 🤓 I love finding solutions to problems. If I'm not programming you can find me skiing ⛷⛰ or trying my hand at home renovation.
+🎞 My background is in TV and film production. I love a good movie. 🤓 I love finding solutions to problems. If I'm not programming you can find me skiing ⛷⛰ or trying my hand at home renovation.
 
-My goal is to work on great projects with great people. Passionate about creating easy to use products that save people time. I pride myself on my ability to rapidly try out new ideas, and develop corresponding product pipelines.
+My goal is to work on great projects with great people. Passionate about creating easy to use products that save people time. I pride myself on the ability to rapidly try out new ideas, and develop corresponding product pipelines.
 
 # Work
 
@@ -15,21 +15,21 @@ I work for a non-profit called [ACP Decisions](https://acpdecisions.org) that sp
 
 As Chief Information Officer at ACP Decisions, I am responsible for:
 
-- Developing our long term technical strategy.
-- Ensuring the security and integrity of our systems and products.
-- Managing the product development of our web and API web services collectively called [My ACP Decisions](https://my.acpdecisions.org/#!/login) used by thousands of clinicians and patients.
-- Developing and maintaining [ACP Tools](https://itunes.apple.com/us/app/acp-tools/id777516324?mt=8) our iOS App.
-- Supporting customers via our [Help Desk](https://docs.app.acpdecisions.org).
-- Writing our [user guides and support documentation](https://docs.app.acpdecisions.org).
-- Maintaining [our company website](https://acpdecisions.org).
+- Developing our long term technical strategy
+- Ensuring the security and integrity of our systems and products
+- Managing the product development of our web and API web services collectively called [My ACP Decisions](https://my.acpdecisions.org/#!/login) used by thousands of clinicians and patients
+- Developing and maintaining [ACP Tools](https://itunes.apple.com/us/app/acp-tools/id777516324?mt=8) our iOS App
+- Supporting customers via our [Help Desk](https://docs.app.acpdecisions.org)
+- Writing our [user guides and support documentation](https://docs.app.acpdecisions.org)
+- Maintaining [our company website](https://acpdecisions.org)
 - Creating internal tools to maximize the effectiveness of a very small team:
-  - A Mac and iOS client that automates over 130 time consuming and repetitive tasks.
-  - Tableau dashboards for key stakeholders and prototyping new reporting.
-  - Bash scripts for maintaining workstations and servers.
-  - Master slide decks for specific marketing and sales scenarios.
-  - Developing documentation templates for repetitive inquiries and FAQs.
-  - A Mac helper app that drafts monthly release notes.
-  - An automated internal documentation website for all company polices, marketing, and sales materials.
+  - A Mac and iOS client that automates over 130 time consuming and repetitive tasks
+  - Tableau dashboards for key stakeholders and prototyping new reporting
+  - Bash scripts for maintaining workstations and servers
+  - Master slide decks for specific marketing and sales scenarios
+  - Developing documentation templates for repetitive inquiries and FAQ's
+  - A Mac helper app that drafts monthly release notes
+  - An automated internal documentation website for all company polices, marketing, and sales materials
 
 # Education
 
