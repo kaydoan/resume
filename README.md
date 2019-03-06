@@ -30,6 +30,14 @@ Responsibilities as Chief Information Officer at ACP Decisions:
   - Developing documentation templates for repetitive inquiries and FAQ's
   - A Mac helper application that drafts monthly release notes
   - An automated internal documentation website for all company polices, marketing, and sales materials
+  
+# My Standard Week
+
+- Meet with or call customers to investigate and prioritize feedback and reported issues
+- Coordinate with engineering to deliver product updates
+- Size up and scope out the future roadmap for our web and mobile products
+- Design and prototype new features
+- Review and schedule work for product sprints
 
 # Education
 
